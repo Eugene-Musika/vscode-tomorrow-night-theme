@@ -1,0 +1,22 @@
+{
+    "name": "tomorrow-night-theme",
+    "displayName": "Tomorrow Night Theme",
+    "description": "Dark theme for VS Code",
+    "version": "1.0.0",
+    "publisher": "none",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tomorrow Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tomorrow-Night.tmTheme"
+            }
+        ]
+    }
+}
