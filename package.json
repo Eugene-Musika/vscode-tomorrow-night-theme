@@ -2,8 +2,18 @@
     "name": "tomorrow-night-theme",
     "displayName": "Tomorrow Night Theme",
     "description": "Dark theme for VS Code",
+    "keywords": ["vscode", "vs code", "theme", "tomorrow night", "dark"],
     "version": "1.0.0",
-    "publisher": "none",
+    "publisher": "eugene-musika",
+    "author": "Eugene Musika",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Eugene-Musika/vscode-tomorrow-night-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Eugene-Musika/vscode-tomorrow-night-theme/issues"
+    },
+    "license": "MIT",
     "engines": {
         "vscode": "^1.5.0"
     },
