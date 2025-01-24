@@ -2,8 +2,9 @@
     "name": "tomorrow-night-theme",
     "displayName": "Tomorrow Night Theme",
     "description": "Dark theme for VS Code",
+    "icon": "icon.png",
     "keywords": ["vscode", "vs code", "theme", "tomorrow night", "dark"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "eugene-musika",
     "author": "Eugene Musika",
     "repository": {
